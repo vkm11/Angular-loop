@@ -1,6 +1,6 @@
-# .1 For loop
-# .2 Nested loop or multidimensional
-
+# 1. For loop
+# 2. Nested loop or multidimensional
+# 3. Style Binding
 # AngularLoop
  - Make Array
  - Apply for loop on it
