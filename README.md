@@ -1,3 +1,6 @@
+# .1 For loop
+# .2 Nested loop or multidimensional
+
 # AngularLoop
  - Make Array
  - Apply for loop on it
