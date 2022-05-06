@@ -16,11 +16,22 @@ export class AppComponent {
   //   {name: 'Nikhil', email:'nikhil@gmail.com', phone:'0976543281'},
   // ];
 
-  // Multidiamentional Array or Neated loop
-  title = 'Nested Loop';
-  users =[
-    {name:'Vijay', phone:'1234', socialAccounts:['facebook','insta','gmail']},
-    {name:'Anil', phone:'22222',socialAccounts:['Whatsapp','linkedin','sharchat']},
-    {name:'kumar', phone:'1111',socialAccounts:['Apna','Hirect','jodDrive']},
-  ]
+  // multidimensional Array or Neated loop
+  // title = 'Nested Loop';
+  // users =[
+  //   {name:'Vijay', phone:'1234', socialAccounts:['facebook','insta','gmail']},
+  //   {name:'Anil', phone:'22222',socialAccounts:['Whatsapp','linkedin','sharchat']},
+  //   {name:'kumar', phone:'1111',socialAccounts:['Apna','Hirect','jodDrive']},
+  // ]
+
+  // Style Binding
+  title ='style binding';
+  color="red";
+  bgColor="green";
+
+  updateColor(){
+    this.color="blue"
+    this.bgColor="red"
+  }
+
 }
