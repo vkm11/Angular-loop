@@ -1,4 +1,10 @@
 # AngularLoop
+ - Make Array
+ - Apply for loop on it
+ - make array of object
+ - Apply loop on object's array
+
+# AngularLoop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
