@@ -16,7 +16,7 @@ export class AppComponent {
   //   {name: 'Nikhil', email:'nikhil@gmail.com', phone:'0976543281'},
   // ];
 
-  // multidimensional Array or Neated loop
+  // multidimensional Array or Nested loop
   // title = 'Nested Loop';
   // users =[
   //   {name:'Vijay', phone:'1234', socialAccounts:['facebook','insta','gmail']},
